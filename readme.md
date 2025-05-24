@@ -24,7 +24,8 @@ A modern, interactive Tic Tac Toe game built with Next.js, React, and Tailwind C
 - **Icons**: Lucide React
 - **Theme**: next-themes
 
-## Getting Started
+## Live URL
+https://blink-tac-toe-ten.vercel.app
 
 ### Prerequisites
 
